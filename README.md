@@ -10,3 +10,6 @@
 
 ## Visualize a Comparison Between Normal and t-distribution
 ![image](https://github.com/Iamkartikey44/ML_Streamlit_Projects/assets/68707728/ba404e62-0cbd-4a33-a134-c8bc7adba5af)
+
+## Image Scraper
+![image](https://github.com/Iamkartikey44/ML_Streamlit_Projects/assets/68707728/707dfcd7-d9b0-4600-81f1-9cf731da8441)
