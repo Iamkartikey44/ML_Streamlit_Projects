@@ -13,3 +13,6 @@
 
 ## Image Scraper
 ![image](https://github.com/Iamkartikey44/ML_Streamlit_Projects/assets/68707728/707dfcd7-d9b0-4600-81f1-9cf731da8441)
+
+## Visualize Voting Classifier With Hyperparameter
+![image](https://github.com/Iamkartikey44/ML_Streamlit_Projects/assets/68707728/a4fe4654-4419-45f2-97b2-c9e8c4774dae)
