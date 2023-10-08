@@ -16,3 +16,6 @@
 
 ## Visualize Voting Classifier With Hyperparameter
 ![image](https://github.com/Iamkartikey44/ML_Streamlit_Projects/assets/68707728/a4fe4654-4419-45f2-97b2-c9e8c4774dae)
+
+## Random Forest Regressor Hyperparameter Visualization
+![image](https://github.com/Iamkartikey44/ML_Streamlit_Projects/assets/68707728/7c2f09b3-7af3-41c9-b511-ea3d1d73555b)
