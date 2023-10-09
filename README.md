@@ -19,3 +19,6 @@
 
 ## Random Forest Regressor Hyperparameter Visualization
 ![image](https://github.com/Iamkartikey44/ML_Streamlit_Projects/assets/68707728/7c2f09b3-7af3-41c9-b511-ea3d1d73555b)
+
+## Url Shorteners App using Streamlit
+![image](https://github.com/Iamkartikey44/ML_Streamlit_Projects/assets/68707728/add57c13-4cda-40e6-ac67-d53b3b58b97f)
