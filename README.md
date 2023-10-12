@@ -27,3 +27,8 @@
 ![image](https://github.com/Iamkartikey44/ML_Streamlit_Projects/assets/68707728/4869c4ad-5d0b-43db-98af-d1f6a8b8441d)
 
 ## Convert Text into Image Using Replicate API
+
+
+## DecisionTreeClassifier Hyperparameter Selection 
+![Untitled video - Made with Clipchamp](https://github.com/Iamkartikey44/ML_Streamlit_Projects/assets/68707728/b69a9367-898a-47e7-aabe-0342ede12db6)
+
