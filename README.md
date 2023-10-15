@@ -35,3 +35,6 @@
 ## Readme Generator Using The Code File
 ![image](https://github.com/Iamkartikey44/ML_Streamlit_Projects/assets/68707728/5d3c6a12-eb56-4774-86b2-ed43708adccc)![image](https://github.com/Iamkartikey44/ML_Streamlit_Projects/assets/68707728/7e83b397-e49c-44a0-a9a2-23ffc6c11705)
 
+## DecisionTreeRegressor Hyperparameter Visualization
+![image](https://github.com/Iamkartikey44/ML_Streamlit_Projects/assets/68707728/310bb17a-76a0-4cdc-9eb6-dcecd14a255d)
+
